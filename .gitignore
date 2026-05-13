@@ -1,0 +1,14 @@
+# Local .terraform directories
+.terraform/
+
+# Terraform state
+*.tfstate
+*.tfstate.backup
+
+# Crash logs
+crash.log
+
+# Lock file and local variables (optional, but good for a portfolio repo)
+.terraform.lock.hcl
+*.tfvars
+*.tfvars.json
